@@ -6,6 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khourysmith/)](https://www.linkedin.com/in/khourysmith/) 
 [![GitHub followers](https://img.shields.io/github/followers/krock07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/krock07?tab=followers)
 
+A software engineer with a keen eye for detail and a passion for thinking critically, analytically and logically. I help solve complex problems to create value and make a difference in the world.
+
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=krock07&count_private=true&show_icons=true&theme=dark" alt="GitHub Status"/>
