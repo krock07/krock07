@@ -11,9 +11,10 @@ A software engineer that focuses on front end and frameworks such as ReactJS. I 
 
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <hr>
-
+<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=krock07&count_private=true&show_icons=true&theme=dark" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krock07&show_icons=true&layout=compact&theme=dark" alt="Most Used Languages">
+  </p>
 
 
   <i><b>Profile Visitor Count...</b></i><br>
