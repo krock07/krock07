@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![Test Image 4](https://github.com/krock07/krock07/blob/main/Github%20header.jpg)
 <hr>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/2cool_khoury)](https://twitter.com/2cool_khoury)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khourysmith/)](https://www.linkedin.com/in/khourysmith/)
+
+[![GitHub followers](https://img.shields.io/github/followers/krock07.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/krock07?tab=followers)
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=krock07&count_private=true&show_icons=true&theme=dark" alt="GitHub Status"/>
