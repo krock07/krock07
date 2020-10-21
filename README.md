@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Test Image 4](https://github.com/krock07/krock07/blob/main/Github%20header.jpg)
-<hr>
+
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/2cool_khoury)](https://twitter.com/2cool_khoury)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khourysmith/)](https://www.linkedin.com/in/khourysmith/) 
